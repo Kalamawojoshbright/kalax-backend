@@ -1,4 +1,9 @@
-"""
+import matplotlib
+matplotlib.use('Agg')  # non‑interactive backend for Render
+import matplotlib.pyplot as plt
+import numpy as np
+import io
+import base64"""
 KalaX Learn – Corrected & Stable Version
 Deploy to Render.com
 """
